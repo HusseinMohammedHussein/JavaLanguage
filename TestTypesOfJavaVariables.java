@@ -3,7 +3,7 @@ class VarEx{
 
 	/* Static Variable */ 
 	static	int var1 = 10;
-	/* Instanc Varyable */
+	/* Instanc Variable */
         	int var2 = 20;
 
 	public static void main(String[] args) {
